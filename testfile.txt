@@ -23,3 +23,4 @@ This is the 22nd change to the testfile, commit comment WILL include the WI #, 3
 This is the 23rd change to the testfile, commit comment WILL include the WI #, 3566. The last one worked and the secret key fix worked.  Testing resolve functionality.
 This is the 24th change to the testfile, commit comment WILL include the WI #, 3566. The last one worked and the secret key fix worked.  Testing resolve functionality again.
 This is the 25th change to the testfile, commit comment WILL include the WI #, 3566. Testing push from local repo including resolve notatation to close workitem.
+This is the 26th change to the testfile, commit comment WILL include the WI #, 3566. Testing push from local repo including resolve notatation to close workitem.
