@@ -25,3 +25,4 @@ This is the 24th change to the testfile, commit comment WILL include the WI #, 3
 This is the 25th change to the testfile, commit comment WILL include the WI #, 3566. Testing push from local repo including resolve notatation to close workitem.
 This is the 26th change to the testfile, commit comment WILL include the WI #, 3566. Testing push from local repo including resolve notatation to close workitem.
 This is the 27th change to the testfile, commit comment WILL include the WI #, 3566. Testing push from local repo including resolve notatation to close workitem and time to add time spent.
+This is the 28th change to the testfile, commit comment WILL include the TASK #, 3565. Testing push from local repo including resolve notatation to close workitem and time to add time spent.
